@@ -1,0 +1,58 @@
+#Day 3+4 - Aditi Sai Sharma - June 5 and 6, 2026
+#Calculator
+
+#Program 1
+print(1+2)
+
+#Strings concantate to 12
+print("1"+"2")
+
+#Program 3  3 variables
+x = input("whats x? ")
+y = input("whats y? ")
+z=x+y
+print(z)
+
+#Program 4 2 variables
+x = int(input("whats x? "))
+y = int(input("whats y? "))
+print(x+y)
+
+#Program 5  all in one
+print(int(input("whats x? ")) + int(input("whats y? ")))
+
+#Program 6 Floats(decimal) and round off
+x = float(input("whats x? "))
+y = float(input("whats y? "))
+z = round(x+y)
+print(z)
+
+#Program 7 adding commas in numbers using f string
+x = float(input("whats x? "))
+y = float(input("whats y? "))
+z = round(x+y)
+print(f"{z:,}")
+
+#Program 8 division
+x = float(input("whats x? "))
+y = float(input("whats y? "))
+z = x/y
+print(z)
+
+#Program 9 division and round off
+x = float(input("whats x? "))
+y = float(input("whats y? "))
+z = round(x/y, 2)
+print(z)
+
+#Program 10 round off 2nd approach
+x = float(input("whats x? "))
+y = float(input("whats y? "))
+z = x/y
+print(f"{z:.2f}")
+
+#Program 11 multiplication
+x = float(input("whats x? "))
+y = float(input("whats y? "))
+z = x*y
+print(f"{z:.2f}")
