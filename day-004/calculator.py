@@ -56,3 +56,24 @@ x = float(input("whats x? "))
 y = float(input("whats y? "))
 z = x*y
 print(f"{z:.2f}")
+
+#Scope - refers to a variable only existing in the context in which you defined it.
+#Calculator.py - square
+
+def main():
+    x = int(input("whats x? "))
+    print("x squared is", square(x))
+
+def square(n):
+    return n*n
+
+main()
+
+#exponential power
+
+def main():
+    x = int(input("whats x? "))
+    n = int(input("whats n? "))
+    print("x to the power n is,", pow(x, n) )
+
+main()

@@ -23,7 +23,7 @@ hello()
 name = input("what is your name? ")
 hello(name)
 
-#fixing confusing actions
+#defining and calling fx
 def main():
     name = input("whats your name? ")
     hello(name)
