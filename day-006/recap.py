@@ -4,9 +4,9 @@ print("I'm going to figure it out, i always do")
 
 purpose = input("why? ")
 
-name  = input("whats your name? ")
+name  = input("what's your full name? ").strip().title()
 
-print("was happeningggg, ", name)
+print("what's happeningggg? ", name)
 
 for i in range(5):
     print("Aditi can do anything, she sets her mind to.")
@@ -19,14 +19,12 @@ print("hello,", name)
 name = name.title()
 print("hello,", name)
 
-name = input("whats your name? ")
 name = name.strip()
 print("hello,", name)
 
 first, middle, last = name.split(" ")
 print("hello,", middle)
 
-name = input("whats your name? ").strip().title()
 print("hello,", name)
 
 print("hello, " + first)
@@ -51,11 +49,9 @@ hello(name)
 
 def hello(to="world"):
     print("hello,", to)
-name = input("whats your name? ")
 hello(name)
 
 def main():
-    name = input("whats your name? ")
     hello(name)
     
 def hello(to="world"):
