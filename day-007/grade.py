@@ -1,11 +1,11 @@
 #Day 7 - Aditi Sai Sharma - June 9, 2026
 
-#GRADE CALCULATOR
+#GRADE CALCULATOR- Conditionals
 
 score = float(input("what is your score in the range 0-100? "))
 
 
-def grade(x):
+def grade(score):
     if score >=90:
         print("A")
     elif score >=80:
