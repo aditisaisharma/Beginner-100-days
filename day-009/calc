@@ -1,21 +1,6 @@
-#Day 8 - Aditi Sai Sharma - June 10, 2026
+#Day 9 - Aditi Sai Sharma - June 11, 2026
 
-print(1+2)
-
-print(f"{(float(input("whats x? ")) * float(input("whats y? "))):.2f}")
-print(f"{(float(input("whats x? ")) / float(input("whats y? "))):.5f}")
-
-x = float(input("whats x? "))
-y = float(input("whats y? "))
-z = round((x*y), 2)
-def main():
-    print("root of z is ", root(z))
-def root(n):
-    return pow(n, 1/2)
-main()
-
-#grade calc- conditionals: if, elif, else
-
+#bugged program 
 score = input("whats your score from 0-100? ").strip()
 
 if score >=0:
@@ -45,3 +30,5 @@ def grade(score):
 
 
 grade(score)
+
+
