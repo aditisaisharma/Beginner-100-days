@@ -15,6 +15,7 @@ def root(n):
 main()
 
 #grade calc- conditionals: if, elif, else
+#this is bugged, i tried to make it on my own, i need to solve it.
 
 score = input("whats your score from 0-100? ").strip()
 
