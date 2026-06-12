@@ -1,34 +1,19 @@
 #Day 9 - Aditi Sai Sharma - June 11, 2026
 
-#bugged program 
-score = input("whats your score from 0-100? ").strip()
-
-if score >=0:
-    float(score)
-elif score <=100:
-    float(score)
-
+score = (input("whats your score between 0-100?"))
 
 def grade(score):
-
-    if score >=90:
-        print("A")
-    elif score >=80:
-        print("B")
-    elif score >=70:
-        print("C")
-    elif score >=60:
-        print("D")
-    elif score >=0:
-        print("F")
-    elif score >100:
-        print("Please put a score between 0-100", grade(score), sep="$")
-    elif score <0:
-        print("Please put a score between 0-100", grade(score), sep="$")
-    else:
-        print("That's not a number.", grade(score), sep="$")
-
-
+     if score > "100":
+        return "score should be between 0-100" 
+     elif score < "0":
+        return "score should be between 0-100"
+     elif score >= "80":
+        return "A"
+     elif score >= "0":
+        return "F"
+     else:
+        return "invalid score"
+     
 grade(score)
-
-
+     
+     
