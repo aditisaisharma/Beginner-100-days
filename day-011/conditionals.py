@@ -1,6 +1,11 @@
 #Day 11 - Aditi Sai Sharma - June 13, 2026
-"""= means assignment in python i.e copying a thing rom the right to the left, as we did in input programs,
-whereas == means equality, like in math.
+
+
+"""
+
+= means assignment in python i.e copying a thing from the right 
+to the left, as we did in input programs, whereas 
+== means equality, like in math (comparison).
 
 ==   equal to
 >=
