@@ -1,0 +1,23 @@
+#Day 12 - Aditi Sai Sharma - June 14, 2026
+
+x = int(input('whats x? '))
+y = int(input('whats y? '))
+
+if x > y:
+    print('wow')
+elif x < y:
+    print('damn')
+else:
+    print('my my!')
+
+x = int(input('whats x? '))
+y = int(input('whats y? '))
+
+if x > y or x < y:
+    print('yo yo')
+else:
+    print('muah')
+
+
+
+
