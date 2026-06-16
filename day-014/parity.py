@@ -7,3 +7,14 @@ if x % 2 == 0:
 else:
     print("odd")
 
+x = int(input("whats x? "))
+
+        
+
+def even(n):
+    if x % 2 == 0:
+        print("even")
+    else:
+        print('odd')
+
+even(x)
