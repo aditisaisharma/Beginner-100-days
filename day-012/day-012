@@ -5,7 +5,7 @@ y = int(input('whats y? '))
 
 if x > y:
     print('wow')
-elif x < y:
+elif x < y:   
     print('damn')
 else:
     print('my my!')
