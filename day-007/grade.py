@@ -1,6 +1,6 @@
 #Day 7 - Aditi Sai Sharma - June 9, 2026
 
-#GRADE CALCULATOR- Conditionals
+#GRADE CALCULATOR- Conditionals  
 
 score = float(input("what is your score in the range 0-100? "))
 
