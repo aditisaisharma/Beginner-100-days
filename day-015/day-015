@@ -1,7 +1,7 @@
 #Day 15 - Aditi Sai Sharma - June 17, 2026
 
 #boolean value - True/False (capital T and capital F)
-print("hi") 
+print("hi")   
 
 def main():
     x = int(input("whats x? "))
