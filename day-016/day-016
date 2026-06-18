@@ -1,3 +1,20 @@
 #Day 16 - Aditi Sai Sharma - June 18, 2026
 
 print('hi')
+
+def main():
+    x = int(input("whats x?"))
+    if even(x):
+        print("even")
+    else:
+        print("odd")
+
+def even(n):
+    if n % 2 == 0:
+        return True
+    else:
+        return False
+    
+main()
+
+
