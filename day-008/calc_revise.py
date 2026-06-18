@@ -1,7 +1,7 @@
 #Day 8 - Aditi Sai Sharma - June 10, 2026
 
 
-print(1+2)
+print(1+2) 
 
 print(f"{(float(input("whats x? ")) * float(input("whats y? "))):.2f}")
 print(f"{(float(input("whats x? ")) / float(input("whats y? "))):.5f}")
