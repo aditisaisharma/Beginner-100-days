@@ -57,4 +57,4 @@ elif x<5:
 else:
     print("x is equal to 5")
 
-#lcm/hcf and prime factors and trigonometry and probability
+#curious to program lcm/hcf and prime factors and trigonometry and probability
