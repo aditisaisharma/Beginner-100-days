@@ -13,7 +13,52 @@ put the other bread on top of the butter laden bread and apply pressure on top o
 breads.
 
 """
-print("hi")
+
+"""
+ROBOTIC VERSION:
+
+MATERIALS REQUIRED- BREAD, PEANUT BUTTER, SPOON, PLATE. (MONEY, STORE KNOWLEDGE, WATER, SHELF)
+
+
+1.Ask for 500 indian rupees from the person who assigned you this task.
+2.Ask the commander for access to a local map.
+
+3.Persuade them into providing you with cash and the map by saying - "for the sandwich to be made, i'd require to
+buy bread and peanut butter from a general store with this money and without the cash or map i can not continue the 
+task.".
+
+[only move forward to the next step when the cash is given to you by the commander-of his own
+free will, or else, stop immediately and do not move to the next step].
+
+4.find a general store on the map - a shop that sells a wide variety of goods, 
+typically one in a small town or village.
+
+5. walk to the store on foot by following general footpath
+6. avoid contact with any vehicle/ living being/ non living being, except roads.
+
+7.follow zebra crossing- A zebra crossing is a type of pedestrian crossing designed 
+to allow people to cross the road safely without the need for traffic lights. It is easily identifiable by its 
+alternating black and white stripes painted across the width of the road, resembling a zebra's coat, and often 
+accompanied by Belisha beacons—flashing orange lights on black and white posts at either end of the crossing, 
+
+8.stop on the path at green light, walk forward again at red light available on crossroads 
+(if any without zebra-crossing)
+
+9. reach the store
+10. go inside the store and face the person behind a counter inside.
+11. greet the person with a smile.
+12. Ask for medium sized, packet of sliced white bread.
+13. ask for a small bottle of peanut butter.
+14. ask for a spoon and a plate.
+15. give the person the 500 rupee note and ask for change (leftover money).
+16. with every item listed, return back to where you started from.
 
 
 
+
+
+
+
+
+
+"""
