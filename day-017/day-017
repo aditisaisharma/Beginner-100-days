@@ -1,0 +1,19 @@
+#Day 17 - Aditi Sai Sharma - June 19, 2026
+
+"""
+
+INSTRUCTIONS FOR MAKING A PEANUT BUTTER SANDWICH:
+
+Buy medium sized sliced white bread and a bottle of peanut butter from a general store.
+Get a spoon and a plate.
+open the cap of P.B. bottle and take out two bread slices.
+scoop out 1 full spoon of butter and put on 1 bread.
+equally distribute the butter on the bread.
+put the other bread on top of the butter laden bread and apply pressure on top of the top-face of the 2 attached 
+breads.
+
+"""
+print("hi")
+
+
+
