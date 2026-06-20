@@ -13,6 +13,10 @@
 
 """
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 706b84c40285dba15db31f71ebb649f76afcc0ee
 """
 #topic - peanut butter sandwich
 
@@ -42,3 +46,10 @@
 -the "if store does not have..." logic requires both conditionals and loops. (conditional inside a loop)
 
 """
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 706b84c40285dba15db31f71ebb649f76afcc0ee
