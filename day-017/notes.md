@@ -13,10 +13,7 @@
 
 """
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 706b84c40285dba15db31f71ebb649f76afcc0ee
 """
 #topic - peanut butter sandwich
 
@@ -52,4 +49,3 @@
 
 
 
->>>>>>> 706b84c40285dba15db31f71ebb649f76afcc0ee
