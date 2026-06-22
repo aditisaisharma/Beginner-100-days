@@ -1,0 +1,10 @@
+#Day 20 - Aditi Sai Sharma - June 22, 2026
+
+print("hi, mi amore") 
+
+for i in range(10):
+    print("In Aditi we trust. ")
+
+name = input("what's your name? ")
+print("I LOVE YOU" ,name)
+
