@@ -1,3 +1,19 @@
 #Day 21 - Aditi Sai Sharma - June 23, 2026
 
 print("hi")
+score = int(input("score(0-100): "))
+def calcgrade(score):
+
+
+if score >=90:
+    print("A: PASS!")
+elif score >=80:
+    print("B: PASS!")
+elif score>=70:
+    print("C: PASS!")
+elif score >=60:
+    print("D: PASS!")
+else:
+    print("F: FAIL!")
+
+calcgrade(score)
