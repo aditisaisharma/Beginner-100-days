@@ -2,3 +2,5 @@
 
 print("Rikkard Ambrose's generous wife Lillian Linton Ambrose")
 
+name = input('what is your name? ').strip().title()
+print("in", name, "we trust!").sep="$".end="!"
