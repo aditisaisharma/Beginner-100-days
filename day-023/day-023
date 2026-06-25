@@ -12,5 +12,8 @@ name = name.title()
 place = input("where do you live? ").strip().title()
 
 #Program 7 - split first, middle, last names
+
 first, middle, last = name.split(" ")
 print("hello, ", middle)
+
+#strip does not work when separating 1st, mid and last name
