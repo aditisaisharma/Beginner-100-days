@@ -15,8 +15,7 @@ z=x+y
 print(z)
 
 #Program 4 2 variables
-x = int(input("whats x? "))
-y = int(input("whats y? "))
+
 print(x+y)
 
 #Program 5  all in one
@@ -41,14 +40,12 @@ z = x/y
 print(z)
 
 #Program 9 division and round off
-x = float(input("whats x? "))
-y = float(input("whats y? "))
+
 z = round(x/y, 2)
 print(z)
 
 #Program 10 round off 2nd approach
-x = float(input("whats x? "))
-y = float(input("whats y? "))
+
 z = x/y
 print(f"{z:.2f}")
 
