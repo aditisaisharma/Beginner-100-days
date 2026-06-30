@@ -7,7 +7,7 @@ name = input("what is your name? ")
 match name:
     case "amby":
         print("sea blue green")
-    case "lilly":
+    case "lilly" | "aditi" | "karim":
         print("brown")
     case "carter":
         print("brown")
