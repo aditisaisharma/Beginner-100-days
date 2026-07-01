@@ -31,7 +31,7 @@ elif score >= 50 and score < 60:
 else:
     print("score: F")
 
-score = int(input("score: "))
+score = int(input("score: ")) 
 
 if score >= 90 and score <= 100:
     print("score: A")
