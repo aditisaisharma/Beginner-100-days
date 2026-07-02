@@ -1,0 +1,49 @@
+#Day 30 - Aditi Sai Sharma - July 2, 2026
+
+
+print(1+2) 
+
+print(f"{(float(input("whats x? ")) * float(input("whats y? "))):.2f}")
+print(f"{(float(input("whats x? ")) / float(input("whats y? "))):.5f}")
+
+x = float(input("whats x? "))
+y = float(input("whats y? "))
+z = round((x*y), 2)
+def main():
+    print("root of z is ", root(z))
+def root(n):
+    return pow(n, 1/2)
+main()
+
+#grade calc- conditionals: if, elif, else
+#this is bugged, i tried to make it on my own, i need to solve it.
+
+score = input("whats your score from 0-100? ").strip()
+
+if score >=0:
+    float(score)
+elif score <=100:
+    float(score)
+
+
+def grade(score):
+
+    if score >=90:
+        print("A")
+    elif score >=80:
+        print("B")
+    elif score >=70:
+        print("C")
+    elif score >=60:
+        print("D")
+    elif score >=0:
+        print("F")
+    elif score >100:
+        print("Please put a score between 0-100", grade(score), sep="$")
+    elif score <0:
+        print("Please put a score between 0-100", grade(score), sep="$")
+    else:
+        print("That's not a number.", grade(score), sep="$")
+
+
+grade(score)
