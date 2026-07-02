@@ -16,7 +16,7 @@ def root(n):
 main()
 
 #grade calc- conditionals: if, elif, else
-#this is bugged, i tried to make it on my own, i need to solve it.
+#this is bugged, i tried to make it on my own, i need to solve it now.
 
 score = input("whats your score from 0-100? ").strip()
 
@@ -46,4 +46,4 @@ def grade(score):
         print("That's not a number.", grade(score), sep="$")
 
 
-grade(score)
+grade(score) 
