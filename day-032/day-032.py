@@ -1,15 +1,18 @@
-#Day 32 - Aditi Sai Sharma - July 4, 2026ef main():
-    x = int(input("whats x?"))
-    if even(x):
-        print("even")
-    else:
-        print("odd")
+#Day 32 - Aditi Sai Sharma - July 4, 2026
+def main():
+ x = int(input("whats x?"))
+ 
+def (even):
+if even(x):
+    print("even")
+else:
+    print("odd")
 
 def even(n):
-    if n % 2 == 0:
-        return True
-    else:
-        return False
+if n % 2 == 0:
+    return True
+else:
+    return False
     
 main()
 
