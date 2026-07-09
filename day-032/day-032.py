@@ -2,17 +2,17 @@
 def main():
  x = int(input("whats x?"))
  
-def (even):
-if even(x):
-    print("even")
-else:
-    print("odd")
+def even():
+    if even(x):
+        print("even")
+    else:
+        print("odd")
 
 def even(n):
-if n % 2 == 0:
-    return True
-else:
-    return False
+    if n % 2 == 0:
+        return True
+    else:
+        return False
     
 main()
 
