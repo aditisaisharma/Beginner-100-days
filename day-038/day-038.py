@@ -1,7 +1,5 @@
 #Day 38 - Aditi Sai Sharma - July 10, 2026
 
-#Day 13 - Aditi Sai Sharma - June 15, 2026
-
 score = int(input("score: "))
 
 if score >= 90 and score <= 100:
