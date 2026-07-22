@@ -1,1 +1,46 @@
 #Day 49 - Aditi Sai Sharma - July 21, 2026
+
+score = int(input("score: "))
+
+if score >= 90 and score <= 100:
+    print("score: A")
+if score >= 80 and score < 90:
+    print("score: B")
+if score >= 70 and score < 80:
+    print("score: C")
+if score >= 60 and score < 70:
+    print("score: D")
+if score >= 50 and score < 60:
+    print("score: E")
+else:
+    print("score: F")
+
+score = float(input("score: "))
+
+if score >= 90 and score <= 100:
+    print("score: A")
+elif score >= 80 and score < 90:
+    print("score: B")
+elif score >= 70 and score < 80:
+    print("score: C")
+elif score >= 60 and score < 70:
+    print("score: D")
+elif score >= 50 and score < 60:
+    print("score: E")
+else:
+    print("score: F")
+
+score = int(input("score: ")) 
+
+if score >= 90 and score <= 100:
+    print("score: A")
+elif score >= 80:
+    print("score: B")
+elif score >= 70:
+    print("score: C")
+elif score >= 60:
+    print("score: D")
+elif score >= 50:
+    print("score: E")
+else:
+    print("score: F")
