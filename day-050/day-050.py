@@ -1,4 +1,4 @@
-#Day 49 - Aditi Sai Sharma - July 21, 2026
+#Day 50 - Aditi Sai Sharma - July 22, 2026
 
 score = int(input("score: "))
 
