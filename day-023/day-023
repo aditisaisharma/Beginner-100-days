@@ -1,4 +1,5 @@
 #Day 23 - Aditi Sai Sharma - June 25, 2026
+
 name = input("what is your name? ")
 name = name.strip()
 
