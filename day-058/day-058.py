@@ -14,7 +14,9 @@ to the left, as we did in input programs, whereas
 <
 !=   not equal to
 :    then
-e.g.    x<y    boolean expression"""
+e.g.    x<y    boolean expression
+
+"""
 
 
 x = int(input('whats x? '))
