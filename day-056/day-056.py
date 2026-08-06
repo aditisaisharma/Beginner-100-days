@@ -5,6 +5,7 @@ print("hi")
 
 
 def main():
+    
     x = int(input("whats x? "))
     if is_even(x):
         print("even")
