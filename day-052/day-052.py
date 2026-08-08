@@ -3,7 +3,6 @@
 print("hi")
 score = int(input("score(0-100): "))
 
-
 def calcgrade(score):
     if score >= 90 and <= 100:
         print("A: PASS!")
