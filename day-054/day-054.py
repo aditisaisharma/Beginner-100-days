@@ -14,7 +14,7 @@ name = name.strip()
 name = name.capitalize()
 
 #Programc 5 - Capitalize all 1st letters
-name = name.title()
+name = name.title(). 
 
 #Program 6 - altogether
 place = input("where do you live? ").strip().title()
