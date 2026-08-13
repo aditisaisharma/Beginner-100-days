@@ -5,7 +5,7 @@ print("hola amigo")
 
 #Program 2 -
 name = input("what is your name? ")
-print("hello, ", name)
+print("hello, ", name) 
 
 #Program 3 - Remove white spaces from str
 name = name.strip()
