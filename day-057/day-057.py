@@ -21,7 +21,7 @@ for i in range(10):
     print("life is good")
 
 #program 7 - using end 
-print("hello, ", name, end="*")
+print("hello, ", name, end="*") 
 
 #program 8 - using sep
 print("hello, ", name, sep="*")
