@@ -28,7 +28,7 @@ print("hello, ", name, sep="*")
 
 #program 8 - using sep and end both
 print("hello, ", name, end="\n", sep=" ")
-
+  
 #program 9 - (') and (") are same in python
 print('hello, "friend"')
 
