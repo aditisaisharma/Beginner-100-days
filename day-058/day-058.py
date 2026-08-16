@@ -18,7 +18,7 @@ e.g.    x<y    boolean expression
 """
 
 
-x = int(input('whats x? '))
+x = int(input('whats x? ')) 
 y = int(input('whats y? '))
 
 if x>y:
