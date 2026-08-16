@@ -5,7 +5,7 @@
 = means assignment in python i.e copying a thing from the right 
 to the left, as we did in input programs, whereas 
 == means equality, like in math (comparison).
-  
+    
 ==  equal to 
 >=
 <=
