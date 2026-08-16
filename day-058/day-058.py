@@ -6,7 +6,7 @@
 to the left, as we did in input programs, whereas 
 == means equality, like in math (comparison).
     
-==  equal to 
+==  equal to  
 >=
 <=
 >
