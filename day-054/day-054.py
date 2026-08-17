@@ -11,7 +11,7 @@ print("hello, ", name)
 name = name.strip()
 
 #Program 4 - Capitalize first letter
-name = name.capitalize()
+name = name.capitalize() 
 
 #Programc 5 - Capitalize all 1st letters
 name = name.title(). 
