@@ -2,7 +2,7 @@
 
 #Program 1 - greetings
 print("hola amigo")  
-
+ 
 #Program 2 -
 name = input("what is your name? ")
 print("hello, ", name) 
