@@ -11,7 +11,7 @@ to the left, as we did in input programs, whereas
 <=  
 > 
 < 
-!=   not equal to
+!=   not equal to 
 :    then
 e.g.    x<y    boolean expression
 
