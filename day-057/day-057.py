@@ -11,7 +11,7 @@ name = input("what is your name?")
 age = input("what is your age?")
 
 #Program 4 - Revision of Day-1
-print("hello, " + name)
+print("hello, " + name) 
 
 #Program 5 - different symbol used
 print("hello,", name)
