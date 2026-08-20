@@ -9,7 +9,7 @@ to the left, as we did in input programs, whereas
 ==  equal to  
 >=
 <=  
-> 
+>  
 < 
 !=   not equal to 
 :    then
