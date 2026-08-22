@@ -1,7 +1,7 @@
 #Day 54 - Aditi Sai Sharma - July 26, 2026
 
 #Program 1 - greetings
-print("hola amigo")  
+print("hola amigo")   
  
 #Program 2 -
 name = input("what is your name? ")
