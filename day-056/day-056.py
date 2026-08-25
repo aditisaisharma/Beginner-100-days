@@ -10,7 +10,7 @@ def main():
     if is_even(x):
         print("even")
     else:
-        print("odd")
+        print("odd") 
 
 def is_even(n):  
     
