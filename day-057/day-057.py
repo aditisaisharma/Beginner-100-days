@@ -20,7 +20,7 @@ print("hello,", name)
 for i in range(10):
     print("life is good")
 
-#program 7 - using end 
+#program 7 - using end  
 print("hello, ", name, end="*") 
 
 #program 8 - using sep
