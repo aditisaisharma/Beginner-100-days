@@ -1,7 +1,7 @@
 #Day 55 - Aditi Sai Sharma - July 27, 2026
 
 #defining functions
-def hello():
+def hello(): 
     print("hello")
 
 name = input("whats your name?" ) 
